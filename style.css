@@ -1,0 +1,31 @@
+
+body{
+   background-image: url(Main\ page.jpg); /* Путь к фоновому изображению */ 
+   background-size: cover;
+   background-position: top center;
+   min-height: 100vh;
+   overflow: hidden;
+    }
+h1
+    {
+        color: rgb(0, 0, 0);
+        padding-left: 40%;
+        padding-right: 40%;
+        font-size: 50px;
+    }
+p   {
+        color: rgb(124, 7, 7);
+        padding-left: 4%;
+        padding-right: 4%;
+        margin-top:  14%;
+        
+    }
+    .list
+    {
+      
+    border-color: #847462;
+    color: rgb(124, 7, 7);
+    padding-left: 4%;
+    padding-right: 4%;
+  
+    }
