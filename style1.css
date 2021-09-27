@@ -1,34 +1,31 @@
-
 body{
-    background-image: url(Main\ page.jpg); /* Путь к фоновому изображению */ 
+    background-image: url(Spintires_screen2.jpg); /* Путь к фоновому изображению */ 
     background-size: cover;
     background-position: top center;
     min-height: 100vh;
     overflow: hidden;
     }
-h1
+h2
     {
         color: rgb(0, 0, 0);
         padding-left: 40%;
         padding-right: 40%;
-        font-size: 50px;
+        font-size: 40px;
     }
-p   {
+    p   {
         color: rgb(255, 255, 255);
         padding-left: 8%;
         padding-right: 8%;
-        margin-top:  10%;
+        margin-top:  4%;
         font-size:140%;
     }
-
     .list
     {
     border-color: #847462;
     color: rgb(255, 255, 255);
     padding-left: 8%;
     padding-right: 8%;
-    font-size:140%;
+    font-size:100%;
     }
     
   
-    
