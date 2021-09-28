@@ -2,8 +2,7 @@ body{
     background-image: url(Spintires_screen2.jpg); /* Путь к фоновому изображению */ 
     background-size: cover;
     background-position: top center;
-    min-height: 100vh;
-    overflow: hidden;
+    height: auto;
     }
 h2
     {
@@ -12,12 +11,12 @@ h2
         padding-right: 40%;
         font-size: 40px;
     }
-    p   {
+    .page{
         color: rgb(255, 255, 255);
         padding-left: 8%;
         padding-right: 8%;
-        margin-top:  4%;
-        font-size:140%;
+        margin-top:  1%;
+        font-size:120%;
     }
     .list
     {
@@ -25,7 +24,64 @@ h2
     color: rgb(255, 255, 255);
     padding-left: 8%;
     padding-right: 8%;
-    font-size:100%;
+    font-size:120%;
     }
+    /*img 
+    {
+        display: block;
+        width: 20%;
+        height: 30%;
+        box-align:center;
+    }*/
+    /*#img1 
+    {
+        display: block;
+        width: 20%;
+        height: 30%;
     
+    }
+    #img2 
+    {
+        display: block;
+        width: 20%;
+        height: 30%;
+      
+    }
+    #img3 
+    {
+        display: block;
+        width: 20%;
+        height: 30%;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+    #img4
+    {
+        display: block;
+        width: 20%;
+        height: 30%;
+    }
+     .img0
+    {
+    text-align:center;
+    width: 100%;
+    }*/
+    th{
+        color: rgb(255, 255, 255);
+                  font-family: verdana;
+                  font-size:  100%; 
+                  font-size: 1.5em; 
+                  text-align: left;
+                  padding-right: 4%;
+                  padding-left: 4%;
+                 
+  
+      }
+      table{
+        width: 100%; /* Ширина таблицы */
+      /*background: white; /* Цвет фона таблицы */
+      color: white; /* Цвет текста */
+      border-spacing: 1px; /* Расстояние между ячейками */
+
+      }
   
