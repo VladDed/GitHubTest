@@ -65,6 +65,12 @@ h2
     {
     text-align:center;
     width: 100%;
+    <p class="img0">
+<img id="img1" src="191724127.jpg" alt="Chernobyl Bundle">
+<img id="img2" src="AmericanWilds.jpg" alt="American Wilds">
+<img id="img3" src="AmericanWilds1.jpg" alt="American Wilds">
+<img id="img4" src="images.jpg" alt="MudRunner">
+</p>
     }*/
     th{
         color: rgb(255, 255, 255);
