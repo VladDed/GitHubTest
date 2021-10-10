@@ -72,22 +72,5 @@ h2
 <img id="img4" src="images.jpg" alt="MudRunner">
 </p>
     }*/
-    th{
-        color: rgb(255, 255, 255);
-                  font-family: verdana;
-                  font-size:  100%; 
-                  font-size: 1.5em; 
-                  text-align: left;
-                  padding-right: 4%;
-                  padding-left: 4%;
-                 
-  
-      }
-      table{
-        width: 100%; /* Ширина таблицы */
-      /*background: white; /* Цвет фона таблицы */
-      color: white; /* Цвет текста */
-      border-spacing: 1px; /* Расстояние между ячейками */
-
-      }
-  
+    
+     
