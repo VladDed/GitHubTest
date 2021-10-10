@@ -12,7 +12,7 @@ h2
         font-size: 40px;
     }
     .page{
-        color: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
         padding-left: 8%;
         padding-right: 8%;
         margin-top:  1%;
@@ -21,56 +21,17 @@ h2
     .list
     {
     border-color: #847462;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding-left: 8%;
     padding-right: 8%;
     font-size:120%;
     }
-    /*img 
+    
+    #img1 
     {
-        display: block;
-        width: 20%;
-        height: 30%;
-        box-align:center;
-    }*/
-    /*#img1 
-    {
-        display: block;
-        width: 20%;
-        height: 30%;
+
+     padding-right: 50px;
+     padding-left: 80px;
     
     }
-    #img2 
-    {
-        display: block;
-        width: 20%;
-        height: 30%;
-      
-    }
-    #img3 
-    {
-        display: block;
-        width: 20%;
-        height: 30%;
-        margin-right: 10%;
-        margin-left: 10%;
-    }
-    #img4
-    {
-        display: block;
-        width: 20%;
-        height: 30%;
-    }
-     .img0
-    {
-    text-align:center;
-    width: 100%;
-    <p class="img0">
-<img id="img1" src="191724127.jpg" alt="Chernobyl Bundle">
-<img id="img2" src="AmericanWilds.jpg" alt="American Wilds">
-<img id="img3" src="AmericanWilds1.jpg" alt="American Wilds">
-<img id="img4" src="images.jpg" alt="MudRunner">
-</p>
-    }*/
-    
-     
+   
