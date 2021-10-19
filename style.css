@@ -14,17 +14,17 @@ h1
         font-size: 50px;
     }
 p   {
-        color: rgb(255, 255, 255);
+        color: rgba(255, 255, 255, 0.795);
         padding-left: 8%;
         padding-right: 8%;
-        margin-top:  10%;
+        margin-top:  18%;
         font-size:140%;
     }
 
     .list
     {
     border-color: #847462;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding-left: 8%;
     padding-right: 8%;
     font-size:140%;
@@ -38,9 +38,9 @@ p   {
         float: left;
         color: #f2f2f2;
         text-align: center;
-        padding: 14px 16px;
+        padding: 12px 14px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 14px;
     }
   
     

@@ -14,20 +14,12 @@ h1
     }
 p   {
         color: rgb(0, 0, 0);
-        padding-left: 8%;
-        padding-right: 8%;
-        margin-top:  10%;
+        padding-left: 4%;
+        padding-right: 4%;
+        margin-top:  2%;
         font-size:140%;
     }
 
-    .list
-    {
-    border-color: #847462;
-    color: rgb(255, 255, 255);
-    padding-left: 8%;
-    padding-right: 8%;
-    font-size:140%;
-    }
     .img
     {
 
@@ -49,4 +41,3 @@ p   {
     }
     
   
-    

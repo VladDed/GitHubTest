@@ -2,7 +2,8 @@ body{
     background-image: url(Spintires_screen2.jpg); /* Путь к фоновому изображению */ 
     background-size: cover;
     background-position: top center;
-    height: auto;
+    min-height: 100vh;
+
     }
 h2
     {
