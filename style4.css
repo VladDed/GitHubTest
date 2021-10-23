@@ -1,6 +1,6 @@
 
 body{
-    background-image: url(Фон2.jpg); /* Путь к фоновому изображению */ 
+    background-image: url(Fon3page.jpg); /* Путь к фоновому изображению */ 
     background-size: cover;
     background-position: top center;
     height: auto;
@@ -14,8 +14,9 @@ h1
     }
 p   {
         color: rgb(0, 0, 0);
-        padding-left: 4%;
-        padding-right: 4%;
+       /* padding-left: 4%;
+        padding-right: 4%;*/
+        text-align: center;
         margin-top:  2%;
         font-size:140%;
     }

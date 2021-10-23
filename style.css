@@ -15,9 +15,10 @@ h1
     }
 p   {
         color: rgba(255, 255, 255, 0.795);
-        padding-left: 8%;
-        padding-right: 8%;
-        margin-top:  18%;
+        background: #10518d59;
+        padding-left: 14%;
+        padding-right: 14%;
+        margin-top:  24%;
         font-size:140%;
     }
 
