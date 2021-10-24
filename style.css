@@ -6,12 +6,12 @@ body{
     min-height: 100vh;
     overflow: hidden;
     }
-h1
+/*h1
     {
         color: rgb(0, 0, 0);
         padding-left: 40%;
         padding-right: 40%;
-        font-size: 50px;
+        font-size: 50px; 
     }
 p   {
         color: rgba(255, 255, 255, 0.795);
@@ -20,7 +20,7 @@ p   {
         padding-right: 14%;
         margin-top:  24%;
         font-size:140%;
-    }
+    
 
     .list
     {
@@ -30,7 +30,7 @@ p   {
     padding-right: 8%;
     font-size:140%;
     }
-    
+    */
     .topnav {
         background-color: #333;
         overflow: hidden;
@@ -42,6 +42,15 @@ p   {
         padding: 12px 14px;
         text-decoration: none;
         font-size: 14px;
+    }
+    .TextCont
+    {
+        color: rgb(255, 255, 255);
+        background: #444b5283;
+        padding-left: 14%;
+        padding-right: 14%;
+        margin-top:  24%;
+        font-size:140%;
     }
   
     

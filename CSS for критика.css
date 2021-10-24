@@ -5,28 +5,9 @@ body{
     background-position: top center;
     height: auto;
     }
-h1
-    {
-        color: rgb(0, 0, 0);
-        padding-left: 30%;
-        padding-right: 30%;
-        font-size: 40px;
-    }
-p   {
-        color: rgb(0, 0, 0);
-      /* padding-left: 4%;
-        padding-right: 4%;*/
-        text-align: center;
-        margin-top:  2%;
-        font-size:140%;
-    }
-
     .img
     {
-
-        padding-left: 12%;
-       
-    
+        padding-left: 8%;
     }
     .topnav {
         background-color: #333;
@@ -40,9 +21,12 @@ p   {
         text-decoration: none;
         font-size: 17px;
     }
-    .content
+    .HelpInfo
     {
-        text-align: center;
+        color: rgb(0, 0, 0);
+          text-align: center;
+          margin-top: 1%;
+          font-size:140%;
     }
     
   

@@ -1,41 +1,17 @@
-body{
+    body
+    {
     background-image: url(Spintires_screen2.jpg); /* Путь к фоновому изображению */ 
     background-size: cover;
     background-position: top center;
     min-height: 100vh;
-
     }
-h2
+    h2
     {
-        color: rgb(0, 0, 0);
-        padding-left: 40%;
-        padding-right: 40%;
-        font-size: 40px;
+        color: #000000;
+        text-align: center;
     }
-    .page{
-        color: rgb(0, 0, 0);
-        padding-left: 4%;
-        padding-right: 4%;
-        margin-top:  1%;
-        font-size:120%;
-    }
-    .list
+    .topnav
     {
-    border-color: #847462;
-    color: rgb(0, 0, 0);
-    padding-left: 8%;
-    padding-right: 8%;
-    font-size:120%;
-    }
-    
-    #img1 
-    {
-
-     padding-right: 50px;
-     padding-left: 80px;
-    
-    }
-    .topnav {
         background-color: #333;
         overflow: hidden;
     }
@@ -47,4 +23,18 @@ h2
         text-decoration: none;
         font-size: 17px;
     }
-   
+    .History
+    {
+        color: rgb(0, 0, 0);
+        padding-left: 8%;
+        padding-right: 8%;
+        margin-top:  1%;
+        font-size:120%;
+        background: #413f3f50;
+    }
+    .ImgHistory
+    {
+        margin-top:  2%;
+        padding-right: 50px;
+        padding-left: 80px;
+    }
