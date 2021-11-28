@@ -23,17 +23,16 @@ body{
         text-decoration: none;
         font-size: 17px;
     }
-    
-  .Gameplay
+ 
+  .text
   {
-    color: rgb(0, 0, 0);
-    padding-left: 40%;
-    padding-right: 40%;
-    font-size: 40px;
-    color: rgb(0, 0, 0);
     padding-left: 8%;
     padding-right: 8%;
     margin-top:  2%;
     font-size:140%; 
+  }
+  .Title
+  {
+    text-align: center;
   }
     

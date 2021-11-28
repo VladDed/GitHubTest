@@ -7,7 +7,8 @@ body{
     }
     .img
     {
-        padding-left: 8%;
+        padding-left: 30%;
+        padding-right: 30%;
     }
     .topnav {
         background-color: #333;
@@ -27,6 +28,16 @@ body{
           text-align: center;
           margin-top: 1%;
           font-size:140%;
+    }
+    .Marks
+    {
+       /* text-align: center;*/
+       font-size: 160%; 
+    }
+    .MarksContent
+    {
+        /*text-align: center;*/
+        font-size: 140%; 
     }
     
   
